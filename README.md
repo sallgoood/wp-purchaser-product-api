@@ -1,12 +1,11 @@
 # Development Environment
-Stack : Kotlin, Spring framework
+Stack : Kotlin, Spring framework<br />
 IDE   : IntelliJ (highly recommend you to review the code with it, https://www.jetbrains.com/idea/download)
 
 # How to run
-on your terminal at project root folder,
- ./gradlew bootRun
-
-visit, http://localhost:8080/rest/swagger-ui.html to try APIs
+on your terminal at project root folder,<br />
+ ./gradlew bootRun<br />
+visit, http://localhost:8080/rest/swagger-ui.html to try APIs<br />
 
 ### Reference Documentation
 For further reference, please consider the following sections:
